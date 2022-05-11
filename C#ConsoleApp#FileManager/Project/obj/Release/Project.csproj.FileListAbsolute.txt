@@ -1,0 +1,12 @@
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\bin\Release\Project.exe.config
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\bin\Release\Project.exe
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\bin\Release\Project.pdb
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\obj\Release\Project.exe
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\obj\Release\Project.pdb
+C:\Users\chuev\OneDrive\документы\visual studio 2015\Projects\Project\Project\obj\Release\Project.csprojResolveAssemblyReference.cache
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Release\Project.exe.config
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Release\Project.exe
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Release\Project.pdb
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Release\Project.exe
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Release\Project.pdb
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Release\Project.csprojResolveAssemblyReference.cache

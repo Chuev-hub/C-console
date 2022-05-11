@@ -1,0 +1,19 @@
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\chuev\onedrive\документы\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Debug\Project.exe.config
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Debug\Project.exe
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Debug\Project.pdb
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Debug\Project.exe
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\bin\Debug\Project.pdb
+C:\Users\chuev\OneDrive\Документы\Visual Studio 2015\Projects\Project — копия\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\chuev\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\chuev\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\chuev\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\chuev\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\chuev\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\chuev\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\chuev\Desktop\Project\Project\obj\Debug\Project.pdb
