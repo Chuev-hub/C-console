@@ -1,1 +1,2 @@
-# C-console
+# C# console 
+Similar to Total Comander application
